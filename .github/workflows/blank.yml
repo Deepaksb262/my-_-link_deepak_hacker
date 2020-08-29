@@ -26,10 +26,9 @@ on:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run:run
+        run:
           echo Add other actions to build,
           echo test, and deploy your project.
-      # image an displayed on runners _-WELOME 
-        -DEEPAK SERVER
-      # run a https://www.youtube.com/channel/UCfwtvsGkFJTPGDQGCEtVpDQ
-      # exit
+      # echo test WELOME_DEEPAK_SERVER
+      # echo Add action to run a https://www.youtube.com/channel/UCfwtvsGkFJTPGDQGCEtVpDQ
+      # echo Add action to -t20sec exit
