@@ -1,5 +1,4 @@
 # my-_-link_deepak_hacker
-#Apt update
-#Apt upgrade
-#pkg install git
-
+#youtube link:https://www.youtube.com/channel/UCfwtvsGkFJTPGDQGCEtVpDQ
+#thankyou
+#exit
